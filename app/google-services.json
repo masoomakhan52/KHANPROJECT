@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "183284969624",
+    "project_id": "khanproject-f84a1",
+    "storage_bucket": "khanproject-f84a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183284969624:android:bd6a8b07af5e85621f20ed",
+        "android_client_info": {
+          "package_name": "com.example.khanproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwJuszljDXJ2IhRwD89ksfr79Al8hSBb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
